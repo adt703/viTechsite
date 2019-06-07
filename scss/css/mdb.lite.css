@@ -1753,7 +1753,9 @@ a.text-light:hover, a.text-light:focus {
     background-attachment: fixed; }
   .view img, .view video {
     position: relative;
-    display: block; }
+    display: block;
+    left:52px;
+    bottom:-126px; } 
   .view video.video-intro {
     z-index: -100;
     top: 50%;

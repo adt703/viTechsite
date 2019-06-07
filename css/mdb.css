@@ -1754,7 +1754,9 @@ a.text-light:hover, a.text-light:focus {
   .view img, .view video {
     position: relative;
     display: block;
-    margin: 0 auto; }
+    margin: 0 auto;
+    left:52px;
+    bottom:-126px; } }
   .view video.video-intro {
     z-index: -100;
     top: 50%;
